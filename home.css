@@ -1,0 +1,15 @@
+#top {
+list-style-type: none;
+display: block;
+}
+#top li 
+{
+	 display: inline-block;
+	 width: 5%;
+	 float: right;
+	 
+}
+#logo
+{ display: block;
+	 margin: auto;
+}
